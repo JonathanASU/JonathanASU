@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?        color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
 
-<div>
-    <img src="mavel diorama.png" width=500/>
-</div>
+<p>
+    <img src="mavel diorama.png" width=500 align="right"/>
+</p>
 
