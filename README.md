@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>My name is Jonathan &#128526</h1>
+
+<p> I'm a full stack ASU student with a background in graphic design. My goal is to be able to make cool(er) stuff after graduating.</p>
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={JonathanASU}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+
+
+
+
