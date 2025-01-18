@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 <h1>My name is Jonathan &#128526</h1>
 
-<p> I'm a full stack ASU student with a background in graphic design. My goal is to be able to make cool(er) stuff after graduating.</p>
+<p> I'm a Graphic IT ASU student with a background in graphic design. My goal is to be able to make cool(er) stuff after graduating.</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JonathanASU&theme=default&show_icons=true&hide_border=true&count_private=true" alt="JonathanASU's GitHub Stats" />
 
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?        color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
     <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
-    <!-- Github Activity Graph -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheehwatang&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub 
 
-
+<div>
+    <img src="mavel diorama.png" width=500/>
+</div>
 
