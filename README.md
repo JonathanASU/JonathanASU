@@ -21,14 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=JonathanASU&theme=default&show_icons=true&hide_border=true&count_private=true" alt="JonathanASU's GitHub Stats" />
 
-<div align="center">
-    <!-- Contribution Heatmap with Snake Animation -->
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?        color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-    <img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
-
-<figure class="half" style="display:flex">
-    <img style="width:450px" src="mavel diorama.png">
-    <img style="width:450px" src="mavel diorama.png">
-    <div><figcaption><strong>(Left)</strong> This is a photograph of me standing inside a diorama built for a photoshoot I had the pleasure of art directing. The shoot was for a Marvel Legend's action figure called GIANTMAN. <strong>(Right)</strong> a repeat of the same photo since I'm just messing around with image arrangment. </figcaption></div>
+<img src="mavel diorama.png" style="width:450px">
+    <div><figcaption><strong>(Above)</strong> This is a photograph of me standing inside a diorama built for a photoshoot I had the pleasure of art directing. The shoot was for a Marvel Legend's action figure called GIANTMAN.
 </figure>
 
